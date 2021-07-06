@@ -1,0 +1,16 @@
+C:\Users\willf\Desktop\Projects\Coding with Will\Demo Files\bin\Debug\net5.0\Demo Files.exe
+C:\Users\willf\Desktop\Projects\Coding with Will\Demo Files\bin\Debug\net5.0\Demo Files.deps.json
+C:\Users\willf\Desktop\Projects\Coding with Will\Demo Files\bin\Debug\net5.0\Demo Files.runtimeconfig.json
+C:\Users\willf\Desktop\Projects\Coding with Will\Demo Files\bin\Debug\net5.0\Demo Files.runtimeconfig.dev.json
+C:\Users\willf\Desktop\Projects\Coding with Will\Demo Files\bin\Debug\net5.0\Demo Files.dll
+C:\Users\willf\Desktop\Projects\Coding with Will\Demo Files\bin\Debug\net5.0\ref\Demo Files.dll
+C:\Users\willf\Desktop\Projects\Coding with Will\Demo Files\bin\Debug\net5.0\Demo Files.pdb
+C:\Users\willf\Desktop\Projects\Coding with Will\Demo Files\obj\Debug\net5.0\Demo Files.csprojAssemblyReference.cache
+C:\Users\willf\Desktop\Projects\Coding with Will\Demo Files\obj\Debug\net5.0\Demo Files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willf\Desktop\Projects\Coding with Will\Demo Files\obj\Debug\net5.0\Demo Files.AssemblyInfoInputs.cache
+C:\Users\willf\Desktop\Projects\Coding with Will\Demo Files\obj\Debug\net5.0\Demo Files.AssemblyInfo.cs
+C:\Users\willf\Desktop\Projects\Coding with Will\Demo Files\obj\Debug\net5.0\Demo Files.csproj.CoreCompileInputs.cache
+C:\Users\willf\Desktop\Projects\Coding with Will\Demo Files\obj\Debug\net5.0\Demo Files.dll
+C:\Users\willf\Desktop\Projects\Coding with Will\Demo Files\obj\Debug\net5.0\ref\Demo Files.dll
+C:\Users\willf\Desktop\Projects\Coding with Will\Demo Files\obj\Debug\net5.0\Demo Files.pdb
+C:\Users\willf\Desktop\Projects\Coding with Will\Demo Files\obj\Debug\net5.0\Demo Files.genruntimeconfig.cache

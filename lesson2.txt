@@ -1,0 +1,31 @@
+Show console, print hello world
+define int, print
+increase, decrease int
+add numbers, show long
+add decimal, show float, double
+show string, hello world again
+
+show code commenting
+
+explain the concept of true/false expressions
+show if true
+show if ==
+show if >/<
+show >=
+
+show infinite while loop
+show iterative while loop
+replace with for loop
+introduce variable scope
+
+ask how functions work - consist of existing code
+create new function
+show arguments
+show return
+ask why this is useful - no need to rewrite in multiple places
+demo variable scope again
+
+show that he has learned how to program in any language
+point out that he's probably bored
+
+make text adventure

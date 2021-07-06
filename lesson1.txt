@@ -1,0 +1,10 @@
+Mention games
+Open a google doc, share it
+willf668@gmail.com
+Spend a few minutes writing down game ideas
+Ask if he knows how games work
+Ask how computers work
+https://docs.google.com/presentation/d/1l4xjW8o0IDDkRyabtZ9L9dCbWjVwRkanUVUQXmUUeY8/edit#slide=id.g84f754125f_0_0
+Download VSCode, set up C#
+https://code.visualstudio.com/
+https://dotnet.microsoft.com/download
